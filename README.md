@@ -24,9 +24,3 @@ Since this project is **UI/UX only**, we used the following design tools:
 - **Miro / FigJam** – For wireframes, flowcharts, and brainstorming.
 
 ---
-
-## How to Explore the Project
-
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
