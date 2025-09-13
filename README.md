@@ -1,0 +1,1 @@
+Afaq is a platform designed to help students and fresh graduates navigate their career paths with clarity and confidence. The platform provides a personalized roadmap, trusted resources, and a structured plan to guide users step by step toward their professional goals.
