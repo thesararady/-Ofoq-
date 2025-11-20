@@ -34,3 +34,12 @@ Full UI Design can be viewed here:
 ## 🧩 FigJam Board  
 Project brainstorming, flows, and structure:  
 👉 https://www.figma.com/board/onw48EYvWbc9iodKyds1gn/Ofoq?node-id=0-1&t=EWSIJ82vjbudJgbf-1
+
+
+---
+
+## 📄 Ofoq Case Study
+
+You can view or download the full case study from the link below:
+
+👉 [View Case Study (PDF)](https://drive.google.com/file/d/1aq-QCebu_kAhrm8g46AtDVTzfmkOeJRv/view?usp=sharing)
